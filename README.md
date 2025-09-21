@@ -2,14 +2,6 @@
 
 ###
 
-<p align="left">Mi nombre es Renata Castillo</p>
-
-###
-
-<h2 align="left">Sobre mi</h2>
-
-###
-
 <p align="left">Soy estudiante de Ingeniería en Software en la Universidad Autónoma de Querétaro (UAQ) con una sólida formación académica y experiencia práctica en desarrollo de software. Mi experiencia incluye diseño de software, análisis de requerimientos, desarrollo full-stack y aseguramiento de la calidad.</p>
 
 ###
