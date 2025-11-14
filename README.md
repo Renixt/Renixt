@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">Soy estudiante de Ingeniería en Software en la Universidad Autónoma de Querétaro (UAQ) con una sólida formación académica y experiencia práctica en desarrollo de software. Mi experiencia incluye diseño de software, análisis de requerimientos, desarrollo full-stack y aseguramiento de la calidad.</p>
+<p align="left">I am a Software Engineering student at Universidad Autónoma de Querétaro (UAQ) with a strong academic background and hands-on experience in software development. My expertise includes software design, requirements analysis, software development, and quality assurance.
+</p>
 
 ###
 
