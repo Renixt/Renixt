@@ -2,12 +2,12 @@
 
 ###
 
-<p align="left">I am a Software Engineering student at Universidad Autónoma de Querétaro (UAQ) with a strong academic background and hands-on experience in software development. My expertise includes software design, requirements analysis, software development, and quality assurance.
+<p align="left">I am a Software Engineering student at Universidad Autónoma de Querétaro (UAQ) with a strong academic background and enthusiasm and experience in software development. My expertise includes software design, requirements analysis, software development, and quality assurance.
 </p>
 
 ###
 
-<h2 align="left">Tecnologias</h2>
+<h2 align="left">Tecnologies</h2>
 
 ###
 
